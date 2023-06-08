@@ -1,0 +1,24 @@
+body {
+    margin: 20px;
+    width: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    width: 400px;
+    margin: 15px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: rgb(203, 205, 219);
+    color: rgb(40, 41, 52);
+    border-radius: 12px 12px 0 0;
+    border-bottom: 8px solid rgb(40, 41, 52);
+    
+}
+
+.image {
+    width: 150px;
+    border-radius: 8px;
+}
